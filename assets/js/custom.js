@@ -74,3 +74,7 @@
     wrapAround: true
   });
 })(jQuery);
+
+// JS for copyright year 
+document.getElementById("year").innerHTML=new Date().getFullYear();
+
