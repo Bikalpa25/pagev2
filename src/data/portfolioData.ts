@@ -731,7 +731,7 @@ export const defaultProfile: PortfolioProfile = {
       title:
         "Comparative numerical and experimental study of golden angle and conventional agitator impellers",
       authors:
-        "Karki, P. J., Subedi, A. ., Gaihre, A. ., Chaulagain, B. ., Shrestha, S., & Chitrakar, S. ",
+        "Karki P. J., Subedi A., Gaihre A., Chaulagain B., Shrestha S., & Chitrakar S. ",
       journal:
         "Kathmandu University Journal of Science, Engineering and Technology (KUSET)",
       date: "Aug 2021",
