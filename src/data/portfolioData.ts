@@ -5,7 +5,7 @@ export const defaultProfile: PortfolioProfile = {
   title: "Mechanical Engineer | Entrepreneur | Creator",
   tagline:
     "Designing sustainable recycling systems, 3D printed medical devices, and intelligent industrial IoT platforms.",
-  bio: "Mechanical Engineer (B.E., Kathmandu University, GPA 3.36) with extensive hands-on experience in digital manufacturing, plastic waste recycling machinery, medical hardware R&D, and machine learning for IoT condition monitoring. Co-founder of Nepal Fil Solutions & Regen Nepal, Principal Investigator for NAST-funded medical grants, and researcher in AI for humanitarian action.",
+  bio: "Mechanical Engineer (B.E., Kathmandu University, GPA 3.36) with extensive hands-on experience in digital manufacturing, plastic waste recycling machinery, medical hardware R&D, and machine learning for IoT condition monitoring. Co-founder of Nepal Fil Solutions & Regen Nepal, Principal Investigator for NAST-funded medical grants, and former researcher in AI for humanitarian action.",
   location: "Dhulikhel / Kathmandu, Nepal",
   timezone: "NPT (UTC+5:45)",
   availableForWork: true,
@@ -45,7 +45,7 @@ export const defaultProfile: PortfolioProfile = {
   ],
   stats: [
     { label: "Startups Co-founded", value: "2" },
-    { label: "Products & Jigs Built", value: "15+" },
+    { label: "Products & Jigs Built", value: "10+" },
     { label: "Students Trained", value: "80+" },
     { label: "Kathmandu Univ GPA", value: "3.36" },
   ],
