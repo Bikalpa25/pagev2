@@ -164,7 +164,7 @@ export const defaultProfile: PortfolioProfile = {
           id: "media-fil-0",
           url: "/prostheticsocket/ps1.gif",
           caption:
-            "3D printed Polypropylene (PP) prosthetic socket undergoing ISO standard mechanical load testing",
+            "Setting up our first filament extruder setup",
           type: "image",
           isCover: true,
         },
